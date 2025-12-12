@@ -99,7 +99,7 @@ This dashboard can be used by sales teams, analysts, or business decision-makers
 
 mobile-sales-dashboard/
 
-    └── Mobile_Sales.pbix
+│── Mobile_Sales.pbix
 
 │── README.md
 
